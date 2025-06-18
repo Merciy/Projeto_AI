@@ -25,6 +25,6 @@ Este projeto realiza a análise de similaridade entre comentários utilizando **
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Merciy/Projeto_AI
+cd Projeto_AI
 
