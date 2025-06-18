@@ -102,7 +102,7 @@ def atualizar_num_comentarios():
 # Interface com CustomTkinter
 janela = ct.CTk()
 janela.title("Analisador de Similaridade de Comentários")
-janela.geometry("800x650")
+janela.geometry("400x350")
 
 frame = ct.CTkFrame(janela)
 frame.pack(padx=20, pady=20, fill="both", expand=True)
